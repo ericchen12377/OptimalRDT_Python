@@ -4,9 +4,14 @@ from scipy.stats import dirichlet
 class Prior:
     def __init__(self, name, size, par):
         ''' Constructor for this class. '''
-        # assign the name of distribution
-        # ["Beta", "Dirichlet"]
-        self.name = name
+        """
+        :type name: str 
+        :type size: int
+        :type par: list
+        :rtype: list
+        """
+        
+        self.name = name # assign the name of distribution ["Beta", "Dirichlet"]
         self.size = size
         self.par = par
  
