@@ -1,0 +1,6 @@
+README.md
+setup.py
+OptimalRDTinPython.egg-info/PKG-INFO
+OptimalRDTinPython.egg-info/SOURCES.txt
+OptimalRDTinPython.egg-info/dependency_links.txt
+OptimalRDTinPython.egg-info/top_level.txt
